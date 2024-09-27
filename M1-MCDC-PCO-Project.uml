@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_wC0XMHzaEe-I2KQo3DZpYg" name="M1-MCDC-PCO-Project">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_wHDW8HzaEe-I2KQo3DZpYg">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Interaction" xmi:id="_wEi1gHzaEe-I2KQo3DZpYg" name="Interaction1"/>
+  <packagedElement xmi:type="uml:Activity" xmi:id="_wE9FMHzaEe-I2KQo3DZpYg" name="Activity2"/>
+</uml:Model>
